@@ -14,7 +14,6 @@ import com.lluanps.task_manager.repository.TarefaRepository;
 
 @Service
 public class TarefaService {
-
 	
 	@Autowired
 	private TarefaRepository repository;
